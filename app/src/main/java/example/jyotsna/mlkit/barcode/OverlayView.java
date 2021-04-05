@@ -1,4 +1,4 @@
-package example.ivorycirrus.mlkit.barcode;
+package example.jyotsna.mlkit.barcode;
 
 import android.content.Context;
 import android.graphics.Canvas;
